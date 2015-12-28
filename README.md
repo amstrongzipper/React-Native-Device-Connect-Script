@@ -1,4 +1,4 @@
-# React Native JSBundle Script
+# React Native Device Connect Script
 
 Connect the terminal to your device by starting react-native and reversing the adb TCP to connect to a Real Android Device
 
